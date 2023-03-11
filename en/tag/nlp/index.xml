@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP | LIU QI</title>
+    <link>https://liuqdev.github.io/en/tag/nlp/</link>
+      <atom:link href="https://liuqdev.github.io/en/tag/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLP</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liuqdev.github.io/media/icon_hu088ce65a4742992e84b74a7b810d9f1f_24777_512x512_fill_lanczos_center_3.png</url>
+      <title>NLP</title>
+      <link>https://liuqdev.github.io/en/tag/nlp/</link>
+    </image>
+    
+    <item>
+      <title>The Eudic glossary creator</title>
+      <link>https://liuqdev.github.io/en/project/eudicglossarycreator/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://liuqdev.github.io/en/project/eudicglossarycreator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
