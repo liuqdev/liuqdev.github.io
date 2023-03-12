@@ -16,6 +16,96 @@
                 href="https://liuqdev.github.io/zh/talk/example-talk/"
                 />
   </url><url>
+    <loc>https://liuqdev.github.io/zh/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liuqdev.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liuqdev.github.io/zh/"
+                />
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/_index_backup/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/tag/deep-learning/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liuqdev.github.io/en/tag/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liuqdev.github.io/zh/tag/deep-learning/"
+                />
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/project/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liuqdev.github.io/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liuqdev.github.io/zh/project/"
+                />
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/tags/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liuqdev.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liuqdev.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/project/neuralmolgen/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liuqdev.github.io/en/project/neuralmolgen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liuqdev.github.io/zh/project/neuralmolgen/"
+                />
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/tag/nlp/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/tag/python/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/project/eudicglossarycreator/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/tag/tools/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://liuqdev.github.io/zh/publication-type/2/</loc>
     <lastmod>2023-03-11T22:33:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -29,6 +119,10 @@
                 hreflang="zh"
                 href="https://liuqdev.github.io/zh/publication-type/2/"
                 />
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/authors/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://liuqdev.github.io/zh/tag/bayesian-model/</loc>
     <lastmod>2023-03-11T22:33:43+08:00</lastmod>
@@ -114,20 +208,6 @@
                 href="https://liuqdev.github.io/zh/tag/srfd-bayes/"
                 />
   </url><url>
-    <loc>https://liuqdev.github.io/zh/tags/</loc>
-    <lastmod>2023-03-11T22:33:43+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://liuqdev.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://liuqdev.github.io/zh/tags/"
-                />
-  </url><url>
     <loc>https://liuqdev.github.io/zh/publication/journal-article/</loc>
     <lastmod>2023-03-11T22:33:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -140,20 +220,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://liuqdev.github.io/zh/publication/journal-article/"
-                />
-  </url><url>
-    <loc>https://liuqdev.github.io/zh/</loc>
-    <lastmod>2023-03-11T22:33:43+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://liuqdev.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://liuqdev.github.io/zh/"
                 />
   </url><url>
     <loc>https://liuqdev.github.io/zh/publication-type/3/</loc>
@@ -352,45 +418,19 @@
                 href="https://liuqdev.github.io/zh/slides/example/"
                 />
   </url><url>
-    <loc>https://liuqdev.github.io/zh/tag/deep-learning/</loc>
-    <lastmod>2023-03-02T23:57:22+08:00</lastmod>
+    <loc>https://liuqdev.github.io/zh/project/aiassistedannotation/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liuqdev.github.io/en/tag/deep-learning/"
+                href="https://liuqdev.github.io/en/project/aiassistedannotation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liuqdev.github.io/zh/tag/deep-learning/"
+                href="https://liuqdev.github.io/zh/project/aiassistedannotation/"
                 />
-  </url><url>
-    <loc>https://liuqdev.github.io/zh/tag/demo/</loc>
-    <lastmod>2023-03-02T23:57:22+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://liuqdev.github.io/zh/project/</loc>
-    <lastmod>2023-03-02T23:57:22+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://liuqdev.github.io/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://liuqdev.github.io/zh/project/"
-                />
-  </url><url>
-    <loc>https://liuqdev.github.io/zh/project/example/</loc>
-    <lastmod>2023-03-02T23:57:22+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://liuqdev.github.io/zh/project/external-project/</loc>
-    <lastmod>2023-03-02T23:57:22+08:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://liuqdev.github.io/zh/publication-type/1/</loc>
     <lastmod>2023-03-02T21:43:50+08:00</lastmod>
@@ -433,6 +473,10 @@
                 hreflang="zh"
                 href="https://liuqdev.github.io/zh/admin/"
                 />
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/authors/admin/_index_backup/</loc>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://liuqdev.github.io/zh/post/</loc>
     <lastmod>2023-03-02T23:57:22+08:00</lastmod>

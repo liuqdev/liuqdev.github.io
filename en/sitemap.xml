@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://liuqdev.github.io/en/</loc>
-    <lastmod>2023-03-12T07:36:49+08:00</lastmod>
+    <lastmod>2023-03-12T07:40:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -75,22 +75,16 @@
     <loc>https://liuqdev.github.io/en/project/neuralmolgen/</loc>
     <lastmod>2023-03-11T22:33:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://liuqdev.github.io/en/tag/nlp/</loc>
-    <lastmod>2023-03-11T22:33:43+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://liuqdev.github.io/en/tag/python/</loc>
-    <lastmod>2023-03-11T22:33:43+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://liuqdev.github.io/en/project/eudicglossarycreator/</loc>
-    <lastmod>2023-03-11T22:33:43+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://liuqdev.github.io/en/tag/tools/</loc>
-    <lastmod>2023-03-11T22:33:43+08:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liuqdev.github.io/zh/project/neuralmolgen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liuqdev.github.io/en/project/neuralmolgen/"
+                />
   </url><url>
     <loc>https://liuqdev.github.io/en/publication-type/2/</loc>
     <lastmod>2023-03-11T22:33:43+08:00</lastmod>
@@ -443,6 +437,16 @@
     <loc>https://liuqdev.github.io/en/project/aiassistedannotation/</loc>
     <lastmod>2023-03-11T22:33:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liuqdev.github.io/zh/project/aiassistedannotation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liuqdev.github.io/en/project/aiassistedannotation/"
+                />
   </url><url>
     <loc>https://liuqdev.github.io/en/publication-type/1/</loc>
     <lastmod>2023-03-11T22:33:43+08:00</lastmod>
@@ -495,7 +499,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://liuqdev.github.io/en/authors/admin/</loc>
-    <lastmod>2023-03-11T22:33:43+08:00</lastmod>
+    <lastmod>2023-03-12T08:16:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://liuqdev.github.io/en/post/</loc>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | LIU QI</title>
+    <link>https://liuqdev.github.io/zh/authors/</link>
+      <atom:link href="https://liuqdev.github.io/zh/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liuqdev.github.io/media/icon_hu088ce65a4742992e84b74a7b810d9f1f_24777_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://liuqdev.github.io/zh/authors/</link>
+    </image>
+    
+    <item>
+      <title>LIU QI</title>
+      <link>https://liuqdev.github.io/zh/authors/admin/_index_backup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://liuqdev.github.io/zh/authors/admin/_index_backup/</guid>
+      <description>&lt;p style=&#34;text-align: justify; font-size: 20px&#34;&gt;&lt;strong&gt;LIU QI&lt;/strong&gt; 是一名AI研究助理，工作于 &lt;a href=&#34;http://www.ghddi.org/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global Health Drug Discovery Institute (GHDDI)&lt;/a&gt; 的数据科学部门。加入 GHDDI 前, 他于2021年6月从清华大学取得控制工程硕士学位，于2018年6月从中国矿业大学取得工学学士学位&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Research Interests&lt;/strong&gt;: 人工智能，图神经网络，可解释性机器学习，人机交互&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
