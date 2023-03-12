@@ -217,7 +217,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.ac5a26bf7c617407e6b7a2775e9b61b0.css" />
+  <link rel="stylesheet" href="/css/wowchemy.3a62e84322d4864062f5a8f9349175b0.css" />
 
   
   
@@ -239,6 +239,48 @@
   
   
 
+  <meta name="google-site-verification" content="4696879338" />
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KQ11GLNBWZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-KQ11GLNBWZ', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -246,7 +288,13 @@
 
 
 
-
+<script>
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", 'g79xjepgj1');
+</script>
 
 
 
@@ -390,7 +438,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.3af5864bbbc12102f75c2e28505928b4.js"></script>
+  <script src="/js/wowchemy-init.min.74aedfae60bb49ca67a368a90c9bbab5.js"></script>
 
   
 
@@ -909,6 +957,9 @@
     <div class="container">
       <footer class="site-footer">
 
+  <center>
+  <div style="display:inline-block;width:399px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5fyoeylin4f&amp;m=0c&amp;c=ffffff&amp;cr1=ff0000&amp;sx=0&amp;cw=ffffff&amp;cb=1565c0" async="async"></script></div>
+  </center>
   
 
 
@@ -977,19 +1028,6 @@
 
 
 
-  <p class="powered-by">
-    
-    
-    
-      
-      
-      
-      
-      
-      
-      由<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>支持发布——免费<a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">开源</a>网站，为创作者赋能。
-    
-  </p>
 </footer>
 
     </div>
