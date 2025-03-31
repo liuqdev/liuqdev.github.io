@@ -121,36 +121,6 @@
     </item>
     
     <item>
-<<<<<<< HEAD
-=======
-      <title>Research on Methods for Identifying the Tumor-specific DNA Methylation Sites in Peripheral Blood</title>
-      <link>https://liuqdev.github.io/en/publication/thu_thesis/</link>
-      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://liuqdev.github.io/en/publication/thu_thesis/</guid>
-      <description>&lt;!-- 
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
->>>>>>> f5a8dfe63806f7299bc9336bcec2c7c4270ed656
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://liuqdev.github.io/en/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -334,11 +304,7 @@ data.head()
 
 
 
-<<<<<<< HEAD
-&lt;div id=&#34;chart-978642153&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-=======
-&lt;div id=&#34;chart-596183742&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
->>>>>>> f5a8dfe63806f7299bc9336bcec2c7c4270ed656
+&lt;div id=&#34;chart-843695712&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -348,11 +314,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-<<<<<<< HEAD
-        Plotly.plot(&#39;chart-978642153&#39;, chart.data, chart.layout, {responsive: true});
-=======
-        Plotly.plot(&#39;chart-596183742&#39;, chart.data, chart.layout, {responsive: true});
->>>>>>> f5a8dfe63806f7299bc9336bcec2c7c4270ed656
+        Plotly.plot(&#39;chart-843695712&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -758,36 +720,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-<<<<<<< HEAD
-=======
-      <title>Research and Implementation of Image Captioning Based on LSTM</title>
-      <link>https://liuqdev.github.io/en/publication/cumt_thesis/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://liuqdev.github.io/en/publication/cumt_thesis/</guid>
-      <description>&lt;!-- 
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
->>>>>>> f5a8dfe63806f7299bc9336bcec2c7c4270ed656
       <title>AI-Assisted Annotation</title>
       <link>https://liuqdev.github.io/en/project/aiassistedannotation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
