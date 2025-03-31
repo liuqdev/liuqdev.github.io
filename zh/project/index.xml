@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | </title>
+    <link>https://liuqdev.github.io/zh/project/</link>
+      <atom:link href="https://liuqdev.github.io/zh/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liuqdev.github.io/media/icon_hu088ce65a4742992e84b74a7b810d9f1f_24777_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://liuqdev.github.io/zh/project/</link>
+    </image>
+    
+    <item>
+      <title>Target-specific Molecular Generation</title>
+      <link>https://liuqdev.github.io/zh/project/neuralmolgen/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://liuqdev.github.io/zh/project/neuralmolgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-Assisted Annotation</title>
+      <link>https://liuqdev.github.io/zh/project/aiassistedannotation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://liuqdev.github.io/zh/project/aiassistedannotation/</guid>
+      <description>&lt;p&gt;To be continued &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
