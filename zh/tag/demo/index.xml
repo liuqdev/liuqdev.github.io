@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | LIU QI</title>
+    <link>https://liuqdev.github.io/zh/tag/demo/</link>
+      <atom:link href="https://liuqdev.github.io/zh/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liuqdev.github.io/media/icon_hu088ce65a4742992e84b74a7b810d9f1f_24777_512x512_fill_lanczos_center_3.png</url>
+      <title>Demo</title>
+      <link>https://liuqdev.github.io/zh/tag/demo/</link>
+    </image>
+    
+    <item>
+      <title>本栏目正在建设中...</title>
+      <link>https://liuqdev.github.io/zh/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://liuqdev.github.io/zh/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
