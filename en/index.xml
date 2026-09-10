@@ -33,6 +33,51 @@
     </item>
     
     <item>
+      <title>Seminar Retreat Erturk Lab 2026</title>
+      <link>https://liuqdev.github.io/en/news/205-06-08-retreat2026/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://liuqdev.github.io/en/news/205-06-08-retreat2026/</guid>
+      <description>&lt;p&gt;The seminar retreat brought together approximately 35 participants and provided a valuable opportunity for scientific exchange. discussion, and collaboration. We are pleased that the event was a great success and would like to express our sincere appreciation to all participants for their active involvement and contributions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HAICON 2026</title>
+      <link>https://liuqdev.github.io/en/news/205-06-08-haicon26/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://liuqdev.github.io/en/news/205-06-08-haicon26/</guid>
+      <description>&lt;p&gt;AI FOR SCIENCE 8-11 JUNE 2026, MUNICH, GERMANY&lt;/p&gt;
+&lt;p&gt;A 3D Foundation Model for Generalizable Biological Structure Segmentation in Tissue Clearing Images
+Authors:
+Qi Liu1,2,3,4, Ying Chen1,2,3,4, Markus Elsner1,6, Ali Ertürk1,2,4,6,7 #&lt;br&gt;
+1 Institute for Stroke and Dementia Research, Klinikum der Universität München, Ludwig-Maximilians University Munich, Munich, Germany
+2 Institute for Intelligent Biotechnologies (iBIO), Helmholtz Center Munich, Neuherberg, Germany
+3 Faculty of Medicine, Ludwig-Maximilians University Munich, Munich, Germany
+4 Munich Cluster for Systems Neurology (SyNergy), Munich, Germany
+5 Munich Medical Research School (MMRS), Munich, Germany
+6 Deep Piction GmbH, Munich, Germany
+7 School of Medicine, Koç University, İstanbul, Turkey
+These authors contributed equally: Qi Liu, Ying Chen
+#Correspondence: &lt;a href=&#34;mailto:ali.erturk@helmholtz-munich.de&#34;&gt;ali.erturk@helmholtz-munich.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Abstract
+Tissue clearing combined with light-sheet microscopy (LSM) enables the 3D visualization and analysis of intricate cellular and subcellular structures across tissues and organisms, characterized by high contrast and super-resolution capabilities. However, segmenting diverse biological structures in 3D LSM images remains a major challenge due to significant variations in morphology, artifacts, signal-to-noise ratio, and surrounding tissue context. Conventional supervised learning-based segmentation models typically require extensive voxel-wise annotations and the training structure-specific models, thereby limiting their generalizability and scalability across datasets and applications.
+Foundation models (FMs) are expected to mitigate this limitation. FMs trained on large-scale data are anticipated to achieve zero-shot or few-shot generalization. Despite their success in other domains, their application to LSM data remains underexplored. In this study, we propose a foundation model tailored for comprehensive segmentation of diverse biological structures in tissue-cleared mouse LSM dataset and evaluate its domain generalization capability. We construct a large-scale dataset containing more than 9 biological structures and 50,000 patches of size 300³ and perform self-supervised learning (SSL) to learn robust representations from diverse LSM data. The model is evaluated across extensive 3D segmentation tasks, including out-of-distribution datasets. Our findings demonstrate that a self-supervised pretrained foundation model enables effective cross-structure transfer for 3D image segmentation and indicate its strong ability to generalize to previously unseen biological structures. In several downstream tasks, it outperforms state-of-the-art task-specific 3D segmentation models.
+Overall, this study underscores the potential of FMs in LSM image domain and demonstrates their capability as a unified approach for segmentation across diverse biological domains.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MICCAI 2025</title>
+      <link>https://liuqdev.github.io/en/news/205-09-23-miccai2025/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://liuqdev.github.io/en/news/205-09-23-miccai2025/</guid>
+      <description>&lt;p&gt;SELMA3D 2025 challenge&lt;/p&gt;
+&lt;p&gt;Self-supervised learning for 3D light-sheet microscopy image segmentation,
+Ying Chen, Rami Al-Maskari, Qi Liu, Luciano Höher, Zhuhao Wu, Alain Chedotal, Johannes C. Paetzold, Ali Erturk&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Blog with Jupyter Notebooks!</title>
       <link>https://liuqdev.github.io/en/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
@@ -304,7 +349,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-571426839&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-498167253&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -314,7 +359,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-571426839&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-498167253&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

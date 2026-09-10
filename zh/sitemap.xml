@@ -16,6 +16,24 @@
                 href="https://liuqdev.github.io/zh/talk/example-talk/"
                 />
   </url><url>
+    <loc>https://liuqdev.github.io/zh/news/</loc>
+    <lastmod>2026-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://liuqdev.github.io/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://liuqdev.github.io/zh/news/"
+                />
+  </url><url>
+    <loc>https://liuqdev.github.io/zh/news/2026-09-paper-accepted/</loc>
+    <lastmod>2026-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://liuqdev.github.io/zh/post/blog-with-jupyter/</loc>
     <lastmod>2023-12-26T01:27:48+08:00</lastmod>
     <changefreq>weekly</changefreq>

@@ -16,6 +16,32 @@
                 href="https://liuqdev.github.io/en/talk/example-talk/"
                 />
   </url><url>
+    <loc>https://liuqdev.github.io/en/news/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://liuqdev.github.io/zh/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://liuqdev.github.io/en/news/"
+                />
+  </url><url>
+    <loc>https://liuqdev.github.io/en/news/205-06-08-retreat2026/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://liuqdev.github.io/en/news/205-06-08-haicon26/</loc>
+    <lastmod>2026-06-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://liuqdev.github.io/en/news/205-09-23-miccai2025/</loc>
+    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://liuqdev.github.io/en/post/blog-with-jupyter/</loc>
     <lastmod>2023-12-26T01:27:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
